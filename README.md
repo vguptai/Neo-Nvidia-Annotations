@@ -8,9 +8,9 @@ The paper has been accepted for Oral presentation at the **International Confere
  
 In this paper, we propose a multi-task framework for online and early gesture recognition which is crucial for building touchless gesture bases interfaces. In the online settings, our approach recognises the gestures at an early stage with high precision and also achieves state-of-the-art results on the NVIDIA gesture dataset in the offline settings. We also evaluated our approach on the Montalbano dataset and report competitive results.
 
-Disclaimer: This is not an official Daimler product.
-
 ### Annotations
+
+![Neo-Nvidia Annotation for "Swipe-Up" Gesture](NeoAnnotation-SwipePalmUp.jpg)
 
 The annotations have been shared in json format. Each entry represents the annotation for a video from the NVIDIA dataset with the category "gesture_id" and the start/end frames "gesture_spans" for the gesture. Following is an example of the annotation.
 
@@ -32,4 +32,5 @@ We gratefully acknowledge Brijesh Pillai and Partha Bhattacharya at Mercedes-Ben
  
 For any questions and contributions, you can contact the authors of the paper, whose
 emails are listed in the paper.
- 
+
+**Disclaimer**: This is not an official Daimler product.
