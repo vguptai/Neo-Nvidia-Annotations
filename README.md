@@ -20,6 +20,21 @@ The annotations have been shared in json format. Each entry represents the annot
 
 Some videos have multiple gesture spans as multiple instances of the same gestures were performed in the video. 
 
+### Citation
+
+To cite our datasets, please use the following bibtex records:
+
+```
+@inproceedings{gupta2019progression,
+  title={Progression Modelling for Online and Early Gesture Detection},
+  author={Gupta, Vikram and Dwivedi, Sai Kumar and Dabral, Rishabh and Jain, Arjun},
+  booktitle={2019 International Conference on 3D Vision (3DV)},
+  pages={289--297},
+  year={2019},
+  organization={IEEE}
+}
+```
+
 ### Acknowledgments
  
 We thank Mallikarjun BR, Neha Tarigopula, Sanath Narayan and Shuaib Ahmed for their valuable feedback and their help in the annotation of the dataset. 
